@@ -315,6 +315,6 @@ body.form .search-form {
 
 @media (min-width: 1500px) {
   .categories {
-    grid-template-columns: repeat(5, 220px) 175px;
+    grid-template-columns: repeat(5, 220px);
   }
 }
